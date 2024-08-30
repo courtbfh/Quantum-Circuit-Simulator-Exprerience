@@ -2,7 +2,7 @@
 
 # Quantum Circuit Simulator
 
-#### Video Demo: <https://youtu.be/Trligb7iGf0>
+#### Video Demo: 
 
 ## Overview
 
